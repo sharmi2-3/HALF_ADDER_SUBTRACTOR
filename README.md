@@ -83,3 +83,4 @@ endmodule
 ![Screenshot 2024-12-01 174835](https://github.com/user-attachments/assets/1ea01c1d-de3f-432f-8521-a0fc73a252d2)
 
 **Result:**
+half adder and half subtractor circuit and its truth table in  Quartus using Verilog programming is verified
